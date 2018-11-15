@@ -1,0 +1,18 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#eclipse configuration
+.project
+.settings
+
+.DS_Store
+.classpath
+.checkstyle
+.settings
+
+derby.log
+target
